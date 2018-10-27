@@ -1,0 +1,39 @@
+                               CV
+                
+Programlama Dilleri
+
+- C, C+, C++, Phyton, Oracle, Javascript, Delphi
+
+Geliþtirilen Projeler
+
+- Yapay Zekanýn Hukuk Ýle Entegrasyonu
+
+Katýldýðý Konferanslar
+
+- 2.Özgür Yazýlým Günü Konferansý 
+- Dreamforce
+
+Makaleler
+
+- In English: A. Senoglu, U. Yavanoglu, S. Ozdemir, "A New Supervised Epidemic Model for Intelligent Viral Content Classification", International Journal of Intelligent Systems and Applications in Engineering, 4(Special Issue), 216–221, 2016.
+- In Turkish: U. Yavanoðlu, A. Kapkiç, S. T. Yaðcý, C. Aktepe ve G. Tunçer, "Kablosuz Að Cihazi Eriþim Güvenliði ve Farkindalik Analizi: Ankara Örneði", Uluslararasý Bilgi Güvenliði Mühendisliði Dergisi, Cilt:1, No:1, S:11-19, 2015.
+
+Katýldýðý Yarýþmalar
+
+- Global Virtual Hackathon 2015
+- Imagine Cup
+
+Sertifikalar
+
+- Bilgi Teknolojileri Sertifikasý
+- Angularjs Sertifikasyon
+
+Ýþ Tecrübeleri
+
+- Roketsan, Bölüm Þefi
+- MI6 ve MÝT
+- Google, Web Motoru Geliþtirme Birimi
+
+Patent
+
+- Patladýðý 10 km yarýçapta bütün bilgisayarlarý kontrol altýna alan siber bomba
